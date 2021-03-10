@@ -1,54 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Beatriz Lanas Angulo on Beatriz Lanas - Taller</title>
-    <link>https://beatrizlanas.github.io/</link>
-    <description>Recent content in Beatriz Lanas Angulo on Beatriz Lanas - Taller</description>
+    <title>Beatriz Lanas Angulo on Beatriz Lanas - Taller Producto 2021</title>
+    <link>https://beatrizlanasangulo.github.io/</link>
+    <description>Recent content in Beatriz Lanas Angulo on Beatriz Lanas - Taller Producto 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://beatrizlanas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://beatrizlanasangulo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Trabajo 1</title>
-      <link>https://beatrizlanas.github.io/docs/post-1/</link>
+      <title>Encargo 1</title>
+      <link>https://beatrizlanasangulo.github.io/docs/trabajo1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://beatrizlanas.github.io/docs/post-1/</guid>
-      <description>Modelación de Flexhouse Evolution Design con Rhino 6 y Enscape</description>
+      <guid>https://beatrizlanasangulo.github.io/docs/trabajo1/</guid>
+      <description>Entregas de primer semestre en diseño.</description>
     </item>
     
     <item>
-      <title>Trabajo 2</title>
-      <link>https://beatrizlanas.github.io/docs/post-2/</link>
+      <title>Encargo 2</title>
+      <link>https://beatrizlanasangulo.github.io/docs/trabajo2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://beatrizlanas.github.io/docs/post-2/</guid>
-      <description>Proyecto que consiste en ventanas inteligentes que se abren y cierran automáticamente según las condiciones climáticas existentes.</description>
-    </item>
-    
-    <item>
-      <title>Trabajo 3</title>
-      <link>https://beatrizlanas.github.io/docs/post-3/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beatrizlanas.github.io/docs/post-3/</guid>
-      <description>proyecto que representa la gravedad en Unity 3D mediante una pelota que se mueve por su propio peso.</description>
+      <guid>https://beatrizlanasangulo.github.io/docs/trabajo2/</guid>
+      <description>Entrega que consiste en escoger sillas de nuestro gusto para luego conocer de dónde vienen y dibujar sus vistas.</description>
     </item>
     
     <item>
       <title>Ejemplo Shortcodes</title>
-      <link>https://beatrizlanas.github.io/docs/ejemplo/</link>
+      <link>https://beatrizlanasangulo.github.io/docs/ejemplo/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://beatrizlanas.github.io/docs/ejemplo/</guid>
+      <guid>https://beatrizlanasangulo.github.io/docs/ejemplo/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
     <item>
       <title>Ejemplos Markdown</title>
-      <link>https://beatrizlanas.github.io/docs/markdown/</link>
+      <link>https://beatrizlanasangulo.github.io/docs/markdown/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://beatrizlanas.github.io/docs/markdown/</guid>
+      <guid>https://beatrizlanasangulo.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     

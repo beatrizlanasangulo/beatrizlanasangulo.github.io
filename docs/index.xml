@@ -9,20 +9,29 @@
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://beatrizlanasangulo.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Encargo 1</title>
-      <link>https://beatrizlanasangulo.github.io/docs/trabajo1/</link>
+      <link>https://beatrizlanasangulo.github.io/docs/encargo-1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://beatrizlanasangulo.github.io/docs/trabajo1/</guid>
+      <guid>https://beatrizlanasangulo.github.io/docs/encargo-1/</guid>
       <description>Entregas de primer semestre en diseño.</description>
     </item>
     
     <item>
       <title>Encargo 2</title>
-      <link>https://beatrizlanasangulo.github.io/docs/trabajo2/</link>
+      <link>https://beatrizlanasangulo.github.io/docs/encargo-2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://beatrizlanasangulo.github.io/docs/trabajo2/</guid>
+      <guid>https://beatrizlanasangulo.github.io/docs/encargo-2/</guid>
       <description>Entrega que consiste en escoger sillas de nuestro gusto para luego conocer de dónde vienen y dibujar sus vistas.</description>
+    </item>
+    
+    <item>
+      <title>Trabajo 3</title>
+      <link>https://beatrizlanasangulo.github.io/docs/encargo-3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beatrizlanasangulo.github.io/docs/encargo-3/</guid>
+      <description>Entregas de la familia de mobiliario</description>
     </item>
     
     <item>
@@ -35,12 +44,12 @@
     </item>
     
     <item>
-      <title>Encargo 4</title>
-      <link>https://beatrizlanasangulo.github.io/docs/trabajo-4/</link>
+      <title>Trabajo 3</title>
+      <link>https://beatrizlanasangulo.github.io/docs/encargo-4/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://beatrizlanasangulo.github.io/docs/trabajo-4/</guid>
-      <description>Entrega de la familia de mobiliario</description>
+      <guid>https://beatrizlanasangulo.github.io/docs/encargo-4/</guid>
+      <description>Entregas de la familia de mobiliario</description>
     </item>
     
     <item>
@@ -53,12 +62,12 @@
     </item>
     
     <item>
-      <title>Trabajo 3</title>
-      <link>https://beatrizlanasangulo.github.io/docs/trabajo3/</link>
+      <title>Encargo 5</title>
+      <link>https://beatrizlanasangulo.github.io/docs/encargo-5/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://beatrizlanasangulo.github.io/docs/trabajo3/</guid>
-      <description>Entregas de la familia de mobiliario</description>
+      <guid>https://beatrizlanasangulo.github.io/docs/encargo-5/</guid>
+      <description>Entrega de la familia de mobiliario</description>
     </item>
     
   </channel>

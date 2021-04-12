@@ -26,12 +26,30 @@
     </item>
     
     <item>
-      <title>Trabajo 3</title>
+      <title>Encargo 3</title>
       <link>https://beatrizlanasangulo.github.io/docs/encargo-3/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://beatrizlanasangulo.github.io/docs/encargo-3/</guid>
       <description>Entregas de la familia de mobiliario</description>
+    </item>
+    
+    <item>
+      <title>Encargo 4</title>
+      <link>https://beatrizlanasangulo.github.io/docs/encargo-4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beatrizlanasangulo.github.io/docs/encargo-4/</guid>
+      <description>Entregas de la familia de mobiliario</description>
+    </item>
+    
+    <item>
+      <title>Encargo 5</title>
+      <link>https://beatrizlanasangulo.github.io/docs/encargo-5/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beatrizlanasangulo.github.io/docs/encargo-5/</guid>
+      <description>Entrega de la familia de mobiliario</description>
     </item>
     
     <item>
@@ -44,30 +62,12 @@
     </item>
     
     <item>
-      <title>Trabajo 3</title>
-      <link>https://beatrizlanasangulo.github.io/docs/encargo-4/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beatrizlanasangulo.github.io/docs/encargo-4/</guid>
-      <description>Entregas de la familia de mobiliario</description>
-    </item>
-    
-    <item>
       <title>Ejemplos Markdown</title>
       <link>https://beatrizlanasangulo.github.io/docs/markdown/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://beatrizlanasangulo.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
-      <title>Encargo 5</title>
-      <link>https://beatrizlanasangulo.github.io/docs/encargo-5/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beatrizlanasangulo.github.io/docs/encargo-5/</guid>
-      <description>Entrega de la familia de mobiliario</description>
     </item>
     
   </channel>

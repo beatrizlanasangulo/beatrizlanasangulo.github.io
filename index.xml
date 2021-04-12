@@ -9,56 +9,47 @@
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://beatrizlanasangulo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Encargo 1</title>
-      <link>https://beatrizlanasangulo.github.io/docs/encargo-1/</link>
+      <link>https://beatrizlanasangulo.github.io/docs/trabajo1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://beatrizlanasangulo.github.io/docs/encargo-1/</guid>
+      <guid>https://beatrizlanasangulo.github.io/docs/trabajo1/</guid>
       <description>Entregas de primer semestre en diseño.</description>
     </item>
     
     <item>
       <title>Encargo 2</title>
-      <link>https://beatrizlanasangulo.github.io/docs/encargo-2/</link>
+      <link>https://beatrizlanasangulo.github.io/docs/trabajo2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://beatrizlanasangulo.github.io/docs/encargo-2/</guid>
+      <guid>https://beatrizlanasangulo.github.io/docs/trabajo2/</guid>
       <description>Entrega que consiste en escoger sillas de nuestro gusto para luego conocer de dónde vienen y dibujar sus vistas.</description>
     </item>
     
     <item>
       <title>Encargo 3</title>
-      <link>https://beatrizlanasangulo.github.io/docs/encargo-3/</link>
+      <link>https://beatrizlanasangulo.github.io/docs/trabajo-3/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://beatrizlanasangulo.github.io/docs/encargo-3/</guid>
+      <guid>https://beatrizlanasangulo.github.io/docs/trabajo-3/</guid>
       <description>Entrega de la familia de mobiliario</description>
     </item>
     
     <item>
       <title>Encargo 4</title>
-      <link>https://beatrizlanasangulo.github.io/docs/encargo-4/</link>
+      <link>https://beatrizlanasangulo.github.io/docs/trabajo-4/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://beatrizlanasangulo.github.io/docs/encargo-4/</guid>
+      <guid>https://beatrizlanasangulo.github.io/docs/trabajo-4/</guid>
       <description>Entregas de la familia de mobiliario</description>
     </item>
     
     <item>
       <title>Encargo 5</title>
-      <link>https://beatrizlanasangulo.github.io/docs/encargo-5/</link>
+      <link>https://beatrizlanasangulo.github.io/docs/trabajo-5/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://beatrizlanasangulo.github.io/docs/encargo-5/</guid>
+      <guid>https://beatrizlanasangulo.github.io/docs/trabajo-5/</guid>
       <description>Entregas de la familia de mobiliario</description>
-    </item>
-    
-    <item>
-      <title>Ejemplo Shortcodes</title>
-      <link>https://beatrizlanasangulo.github.io/docs/ejemplo/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://beatrizlanasangulo.github.io/docs/ejemplo/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
     <item>
@@ -68,6 +59,15 @@
       
       <guid>https://beatrizlanasangulo.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplo Shortcodes</title>
+      <link>https://beatrizlanasangulo.github.io/docs/ejemplo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://beatrizlanasangulo.github.io/docs/ejemplo/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
   </channel>
